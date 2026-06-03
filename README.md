@@ -74,7 +74,7 @@ En lugar de aumentar β de forma monotónica, se emplea un esquema **cíclico**:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone
+git clone https://github.com/aabc2/Ciclycal-BetaVAE.git
 cd RNAP-Ciclycal-BetaVAE
 ```
 
