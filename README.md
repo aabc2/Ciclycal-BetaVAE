@@ -119,10 +119,10 @@ pip install -r requeriments.txt
 
 ## Autores
 
-Adrián Bustios Cancino
-Marcos Frances Requena
-Luna Camacho Boluda
-Irene Robles
+Adrián Bustios Cancino  
+Marcos Frances Requena  
+Luna Camacho Boluda  
+Irene Robles  
 
 ---
 
